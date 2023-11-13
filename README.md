@@ -1,6 +1,7 @@
 # Dodge the Creeps!
 
 A 2D game created with Godot
+Tutorial found [here](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
 
 Demonstrates a player-controlled character, enemies that spawn randomly around the game board, count the score, implement a game over and replay, user interface, sounds
 
