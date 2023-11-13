@@ -1,1 +1,3 @@
-# dodge-the-creeps-2d
+# Dodge the Creeps!
+
+A 2D game created with Godot
